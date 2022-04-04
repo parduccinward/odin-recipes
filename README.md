@@ -1,0 +1,1 @@
+This project is about food recipes using HTML for the Curriculum on the Odin Project. Let's prepare a mondongo (pork ribs) bolivian dish and other recipes =)
