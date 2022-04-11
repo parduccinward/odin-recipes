@@ -1,0 +1,30 @@
+*{
+    font-family: "Copperplate", "Papyrus", sans-serif;
+}
+
+.title, .subtitle, .text{
+    color:white;
+}
+.title{
+    background-color:#F78154;
+    font-size:40px;
+    text-align: center;
+}
+
+.subtitle{
+    background-color:#5FAD56;
+}
+
+.image{
+    width:400px;
+    height:auto;
+}
+
+.list.homepage{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text{
+    background-color:#B4436C;
+}
